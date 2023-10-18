@@ -1,8 +1,8 @@
 ### Olá! Tudo bem com vossa pessoa? Bem vindo ao meu Github 👋
 
 - 🔭 Atualmente estou trabalhando na Federação Unimed
-- 💬 Atualmente estou cursando Análise e desenvolvimento de sistemas pela Unisociesc
-- ⚡ Curiosidade: Adoro gatos pretos 🐈‍⬛
+- 💬 Cursando Análise e desenvolvimento de sistemas pela Unisociesc
+- ⚡ Curiosidade: Adoro gatos pretos 🐈‍⬛ e quebrar a cabeça 🤔
 
 <div>
 <a href="https://github.com/CaduProg">
@@ -17,3 +17,5 @@
 <a href = "mailto:carloseduardogcorrea11@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-correa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
