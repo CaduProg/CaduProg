@@ -56,6 +56,9 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+![Snake animation](https://github.com/carlos-gcorrea/carlos-gcorrea/blob/output/github-contribution-grid-snake.svg)
+
     
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/carlos-gcorrea/count.svg" />  
