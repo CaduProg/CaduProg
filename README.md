@@ -62,7 +62,7 @@
 </p>
 
 
-![snake gif](https://github.com/carlos-gcorrea/carlos-gcorrea/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/carlos-gcorrea/carlos-gcorrea/blob/output/github-contribution-grid-snake.svg)
 
 
 
