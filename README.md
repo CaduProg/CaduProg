@@ -14,34 +14,56 @@
 
 - ⚡ Fun fact **I love black cats and to think too much**
 
+---
+
 ### 🏆 GitHub Profile Trophy
 
-<center>
+<p align="center">
 
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=carlos-gcorrea&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 
-</center>
+</p>
+
+---
 
 ### Languages and Tools
 
-<center>
+<p align="center">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="50" style="padding:20px 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</p>
 
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="50" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+---
 
-<img style="padding:20px 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-gcorrea&show_icons=true&locale=en&layout=compact" alt="Github most commited language" />
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-gcorrea&theme=dracula&hide_langs_below=1" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=carlos-gcorrea&show_icons=true&locale=en" alt="Github Stats" />
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-gcorrea&show_icons=true&theme=dracula&line_height=27" alt="**Carlos Eduardo** github stats"/>
+</a>
 
-### **📍 Profile Visitor Count**
+---
 
-![Visitors Count](https://profile-counter.glitch.me/carlos-gcorrea/count.svg "Be Welcome!")
+</p>
+<div style="text-align:center">
 
-</center>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/carlos-gcorrea/count.svg" />  
+</p>
+
+
+
+
+
