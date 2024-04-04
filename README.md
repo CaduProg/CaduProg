@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Unimed Federation**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript and React**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Java and SpringBoot**
 
